@@ -1,0 +1,14 @@
+!/.gitignore
+.idea
+/app/etc/env.php
+generated/code
+/pub/media/*
+!/pub/media/.htaccess
+/pub/static/*
+!/pub/static/.htaccess
+/var/*
+!/var/.htaccess
+!/var/enc.key
+/generated/*
+!/generated/.htaccess
+/vendor
